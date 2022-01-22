@@ -29,8 +29,8 @@ TIMEOUT_SEC = 60
 no = "❌"
 yes = "✅"
 # Central object is not used its Acknowledged
-tordb = TorToolkitDB()
-header = '<b>TorToolKitX by <a href="https://github.com/KangersHub/TorToolkitX">KangersHub</a></b>\n<u>ADMIN SETTINGS MENU - Beta v1</u>'
+tordb = WuzzupDB()
+header = '<b>SHASHI by <a href="https://t.me/Wuzzup_BoY">Wuzzup BoY/a></b>\n<u>ADMIN SETTINGS MENU - Beta v1</u>'
 
 
 async def handle_setting_callback(e):
